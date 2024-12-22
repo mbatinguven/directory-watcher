@@ -1,0 +1,132 @@
+{
+    "event_type": "created",
+    "src_path": "/home/mustafa/bsm/test/testfile1.txt",
+    "is_directory": false,
+    "event_time": "2024-12-22 02:53:06"
+}
+{
+    "event_type": "modified",
+    "src_path": "/home/mustafa/bsm/test",
+    "is_directory": true,
+    "event_time": "2024-12-22 02:53:06"
+}
+{
+    "event_type": "modified",
+    "src_path": "/home/mustafa/bsm/test/testfile1.txt",
+    "is_directory": false,
+    "event_time": "2024-12-22 02:53:06"
+}
+{
+    "event_type": "modified",
+    "src_path": "/home/mustafa/bsm/test",
+    "is_directory": true,
+    "event_time": "2024-12-22 02:53:06"
+}
+{
+    "event_type": "modified",
+    "src_path": "/home/mustafa/bsm/test/testfile1.txt",
+    "is_directory": false,
+    "event_time": "2024-12-22 02:53:42"
+}
+{
+    "event_type": "modified",
+    "src_path": "/home/mustafa/bsm/test",
+    "is_directory": true,
+    "event_time": "2024-12-22 02:53:42"
+}
+{
+    "event_type": "deleted",
+    "src_path": "/home/mustafa/bsm/test/testfile1.txt",
+    "is_directory": false,
+    "event_time": "2024-12-22 02:54:02"
+}
+{
+    "event_type": "modified",
+    "src_path": "/home/mustafa/bsm/test",
+    "is_directory": true,
+    "event_time": "2024-12-22 02:54:02"
+}
+{
+    "event_type": "created",
+    "src_path": "/home/mustafa/bsm/test/testfile2.txt",
+    "is_directory": false,
+    "event_time": "2024-12-22 12:45:23"
+}
+{
+    "event_type": "modified",
+    "src_path": "/home/mustafa/bsm/test",
+    "is_directory": true,
+    "event_time": "2024-12-22 12:45:23"
+}
+{
+    "event_type": "modified",
+    "src_path": "/home/mustafa/bsm/test/testfile2.txt",
+    "is_directory": false,
+    "event_time": "2024-12-22 12:45:23"
+}
+{
+    "event_type": "modified",
+    "src_path": "/home/mustafa/bsm/test",
+    "is_directory": true,
+    "event_time": "2024-12-22 12:45:23"
+}
+{
+    "event_type": "modified",
+    "src_path": "/home/mustafa/bsm/test/testfile2.txt",
+    "is_directory": false,
+    "event_time": "2024-12-22 12:45:23"
+}
+{
+    "event_type": "modified",
+    "src_path": "/home/mustafa/bsm/test",
+    "is_directory": true,
+    "event_time": "2024-12-22 12:45:23"
+}
+{
+    "event_type": "deleted",
+    "src_path": "/home/mustafa/bsm/test/testfile2.txt",
+    "is_directory": false,
+    "event_time": "2024-12-22 12:45:23"
+}
+{
+    "event_type": "modified",
+    "src_path": "/home/mustafa/bsm/test",
+    "is_directory": true,
+    "event_time": "2024-12-22 12:45:23"
+}
+{
+    "event_type": "created",
+    "src_path": "/home/mustafa/bsm/test/testfile2.txt",
+    "is_directory": false,
+    "event_time": "2024-12-22 12:46:33"
+}
+{
+    "event_type": "modified",
+    "src_path": "/home/mustafa/bsm/test",
+    "is_directory": true,
+    "event_time": "2024-12-22 12:46:33"
+}
+{
+    "event_type": "modified",
+    "src_path": "/home/mustafa/bsm/test/testfile2.txt",
+    "is_directory": false,
+    "event_time": "2024-12-22 12:46:33"
+}
+{
+    "event_type": "modified",
+    "src_path": "/home/mustafa/bsm/test",
+    "is_directory": true,
+    "event_time": "2024-12-22 12:46:33"
+}
+{
+    "event_type": "modified",
+    "src_path": "/home/mustafa/bsm/test/testfile2.txt",
+    "is_directory": false,
+    "event_time": "2024-12-22 12:47:23"
+}
+{
+    "event_type": "modified",
+    "src_path": "/home/mustafa/bsm/test",
+    "is_directory": true,
+    "event_time": "2024-12-22 12:47:23"
+}
